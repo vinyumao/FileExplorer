@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileExplorer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toRootItem">返回根目录</string>
+    <string name="toROOTItem1">返回根目录</string>
+    <string name="createFloder">新建文件夹</string>
+    <string name="createFile">新建文本</string>
+    <string name="input_file_name">请输入文件名或文件夹名</string>
+    <string name="save_text">保存</string>
+    <string name="cancel">取消</string>
+    <string name="save_you_want_save">输入你想保存的内容</string>
+    <string name="title_activity_open_or_save_text">OpenOrSaveTextActivity</string>
+
+</resources>
