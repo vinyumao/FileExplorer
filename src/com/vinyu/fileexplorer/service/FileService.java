@@ -296,11 +296,13 @@ public class FileService {
 			return false;
 		}finally{
 			try {
+				if(fis!=null)
 				fis.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
 			try {
+				if(fos!=null)
 				fos.close();
 			} catch (IOException e) {
 				e.printStackTrace();
